@@ -13,6 +13,7 @@ public class Enemies {
 	public Enemies() {
 	this.x = x;
 	this.y = y;
+	
 }
 	
 	public void moveEnemies() {
